@@ -1,9 +1,9 @@
-##It's my Django project
+## It's my Django project
 
 Do you want to run my project ?
 Do this instruction below in your terminal.
 
-####1-st step
+#### 1-st step
 Clone with HTTPS from GitHub
 ```
 git clone https://github.com/AsylbekAbdyrakmanov/DjangoTask1.git
@@ -36,12 +36,12 @@ then
 ```
 ./manage/py migrate
 ```
-####5-th step
+#### 5-th step
 Create a super user
 ```
 ./manage.py createsuperuser
 ```
-###Finally step
+### Finally step
 Run the project
 
 ```
